@@ -1,0 +1,6 @@
+{
+  "name": "Google Drive File Downloader",
+  "description": "Batch download files from Google Drive links directly to your local computer or directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
